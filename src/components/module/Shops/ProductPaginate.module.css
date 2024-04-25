@@ -1,0 +1,31 @@
+.products {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.panig{
+  width: 100%;
+}
+
+.pagination {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  direction: ltr;
+  justify-content: center;
+  margin: 50px 0;
+}
+
+.pagination__item {
+  margin: 0 5px;
+  cursor: pointer;
+}
+
+.pagination__link__disabled {
+  cursor: not-allowed;
+  color: gray;
+}
+.pageNumber {
+  margin: 0 10px;
+  cursor: pointer;
+}

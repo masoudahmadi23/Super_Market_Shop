@@ -1,0 +1,69 @@
+.space {
+  height: 100px;
+}
+
+.container {
+  max-width: 1280px;
+  margin: auto;
+}
+
+.content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 30px;
+  margin-bottom: 50px;
+}
+
+.content h2 {
+  font-size: 36px;
+}
+
+.content h2 span {
+  color: #01e281;
+  border-bottom: 2px dashed #01e281;
+}
+
+.content a {
+  background: #01e281;
+  color: #1c3e55;
+  padding: 12px 24px;
+  border-radius: 100px;
+  transition: all 0.3s ease-in-out;
+}
+
+.content a:hover {
+  background: #1c3e55;
+  color: #01e281;
+}
+
+.products {
+  max-width: 1280px;
+  margin: auto;
+}
+
+.product_hm {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+@media screen and (max-width: 600px) {
+  .content h2 {
+    font-size: 25px;
+  }
+  .content a {
+    padding: 7px 16px;
+  }
+}
+
+@media screen and (max-width: 370px) {
+  .content {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .content h2 {
+    margin-bottom: 30px;
+  }
+}

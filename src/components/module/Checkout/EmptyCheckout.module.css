@@ -1,0 +1,84 @@
+.Breadcrumb {
+  background: #f9f9f9;
+  padding: 70px;
+  padding-bottom: 25px;
+}
+
+.content {
+  max-width: 1280px;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+}
+.lefter {
+  display: flex;
+  align-items: center;
+  margin-left: 33px;
+}
+.righter h1 {
+  color: #122d40;
+  padding-right: 35px;
+  padding-left: 35px;
+}
+
+#arrowicon {
+  margin: 0 10px;
+}
+
+#homeicon {
+  font-size: 22px;
+}
+
+.container {
+  max-width: 1280px;
+  margin: auto;
+  margin-bottom: 50px;
+}
+
+.details {
+  margin: 80px 0;
+  text-align: center;
+}
+
+.details svg {
+  font-size: 18rem;
+  color: rgb(103, 103, 103);
+  opacity: 0.2;
+}
+
+.details h2 {
+  font-size: 36px;
+  line-height: 1.4;
+  font-weight: 700;
+  margin: 0 0 10px 0;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+
+.details p {
+  font-size: 1.25em;
+  opacity: 0.5;
+  margin-bottom: 20px;
+}
+
+.details a {
+  background: #0ec376;
+  display: inline-block;
+  padding: 10px 30px;
+  border-radius: 5px;
+  color: #122d40;
+  transition: all 0.3s ease-in-out;
+}
+
+.details a:hover {
+  background: #122d40;
+  color: #0ec376;
+}
+
+@media screen and (max-width: 761px) {
+  .lefter {
+    display: none;
+  }
+}

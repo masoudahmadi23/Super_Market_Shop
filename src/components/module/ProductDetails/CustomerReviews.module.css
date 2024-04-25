@@ -1,0 +1,71 @@
+.commentForm {
+  margin-bottom: 20px;
+}
+
+.formGroup {
+  margin-bottom: 10px;
+}
+
+.label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.input,
+.textarea {
+  width: 100%;
+  padding: 8px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.button {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #45a049;
+}
+
+.commentsList {
+  margin-top: 20px;
+}
+
+.comment {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.stars {
+  display: inline-block;
+  font-size: 1.5em;
+}
+
+.stars span {
+  cursor: pointer;
+  transition: color 0.3s ease;
+}
+
+.stars span:hover {
+  color: goldenrod;
+}
+
+#star {
+  color: gold;
+}
+
+.error {
+  color: red;
+  font-size: 0.8em;
+  margin-top: 0.5em;
+}

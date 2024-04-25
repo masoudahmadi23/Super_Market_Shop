@@ -1,0 +1,128 @@
+.container {
+  max-width: 1280px;
+  margin: 50px auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+table tr:last-child(){
+  background-color: #f2f2f2;
+}
+
+th,
+td {
+  border: 1px solid #dddddd;
+  padding: 8px;
+  text-align: center;
+}
+th {
+  background-color: #f2f2f2;
+}
+
+.button {
+  margin: 0 10px;
+  border: none;
+  position: relative;
+  cursor: pointer;
+  line-height: 1;
+  padding: 5px 10px;
+  text-align: center;
+  transition: all 0.2s ease-in-out;
+  background: #01e281;
+  color: #122d40;
+  border-radius: 100px;
+}
+
+.button:hover {
+  color: #01e281;
+  background-color: #f9f9f9;
+}
+
+.td_down {
+  padding: 20px;
+}
+
+.bttn_shop {
+  float: right;
+}
+
+.bttn_shop a,
+.discount button {
+  border: none;
+  color: #122d40;
+  font-weight: 700;
+  background-color: #01e281;
+  padding-right: 30px;
+  padding-left: 30px;
+  border-radius: 100px;
+  display: inline-block;
+  width: auto;
+  padding: 12px 20px;
+  text-align: center;
+  cursor: pointer;
+  transition: all 200ms ease-in-out;
+}
+
+.bttn_shop a:hover,
+.discount button:hover {
+  background-color: #122d40;
+  color: #01e281;
+}
+
+.discount {
+  float: left;
+}
+
+.discount input {
+  padding: 12px;
+  width: auto;
+  font-size: 14px;
+  border: 1px solid rgba(1, 226, 129, 0.2);
+  border-radius: 20px;
+  margin-left: 10px;
+}
+
+.discount input:focus {
+  outline: 1px solid #01e281;
+}
+
+@media screen and (max-width: 768px) {
+  table {
+    width: 75%;
+    margin: auto;
+  }
+
+  thead {
+    display: none;
+  }
+
+  td,
+  th {
+    display: block;
+  }
+
+  td {
+    text-align: center;
+    padding: 20px;
+  }
+
+  .td_down {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .bttn_shop {
+    margin-bottom: 10px;
+  }
+  .discount input {
+    margin-bottom: 10px;
+  }
+}

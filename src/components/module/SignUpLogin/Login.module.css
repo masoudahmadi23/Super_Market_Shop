@@ -1,0 +1,31 @@
+.form {
+  width: 400px;
+  margin: auto;
+  background: #122d40;
+  padding: 40px;
+  border-radius: 10px;
+}
+
+.login_inp {
+  width: 75%;
+  padding: 6px 10px;
+  margin: 20px;
+  border: none;
+  outline: none;
+  border-radius: 10px;
+}
+
+.login_inp:focus {
+  outline: 2px solid #0ec376;
+}
+
+#bttn {
+  width: 33%;
+  margin-top: 20px;
+  background: #0ec376;
+  border: none;
+  border-radius: 10px;
+  padding: 10px;
+  color: #ffffff;
+  cursor: pointer;
+}

@@ -1,0 +1,232 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "product": "میگو",
+      "image": "https://content-3.foto.my.mail.ru/community/ikrakrasnayaalmaty/_groupsphoto/h-168.jpg",
+      "categori": "ماهی و آبزیان",
+      "image_categori": "https://xtratheme.ir/elementor/supermarket/wp-content/uploads/sites/111/2023/05/s1.png",
+      "price": 25000,
+      "details": "سوپرمارکت شکلی از خواربارفروشی ولی بزرگتر از آن است که مشتری خودش محصولات را از قفسه برمی‌دارد یا به اصطلاح سلف سرویس است. در حدود ۷۵ تا ۹۰ درصد کالاهای این مغازه‌ها محصولات غذایی هستند. اندازه سوپرمارکت‌ها معمولاً از خواربارفروشیهای سنتی بزرگترند و محصولات بیشتری می‌فروشند ولی از هایپرمارکت‌ها و سوپرسنترها کوچکترند.",
+      "rating": 3
+    },
+    {
+      "id": "2",
+      "product": "ماهی قزل آلا",
+      "image": "https://www.frescopesce.it/wp-content/uploads/2015/04/salmone.jpg",
+      "categori": "ماهی و آبزیان",
+      "image_categori": "https://xtratheme.ir/elementor/supermarket/wp-content/uploads/sites/111/2023/05/s1.png",
+      "price": 35000,
+      "details": "سوپرمارکت شکلی از خواربارفروشی ولی بزرگتر از آن است که مشتری خودش محصولات را از قفسه برمی‌دارد یا به اصطلاح سلف سرویس است. در حدود ۷۵ تا ۹۰ درصد کالاهای این مغازه‌ها محصولات غذایی هستند. اندازه سوپرمارکت‌ها معمولاً از خواربارفروشیهای سنتی بزرگترند و محصولات بیشتری می‌فروشند ولی از هایپرمارکت‌ها و سوپرسنترها کوچکترند.",
+      "rating": 4
+    },
+    {
+      "id": "3",
+      "product": "هویج",
+      "image": "https://agroimpulstd.ru/upload/iblock/8dd/pr_agro_sv_1140_f1_morkov_seminis.jpg",
+      "categori": "میوه و سبزیجات",
+      "image_categori": "https://xtratheme.ir/elementor/supermarket/wp-content/uploads/sites/111/2023/05/s2.png",
+      "price": 5000,
+      "details": "سوپرمارکت شکلی از خواربارفروشی ولی بزرگتر از آن است که مشتری خودش محصولات را از قفسه برمی‌دارد یا به اصطلاح سلف سرویس است. در حدود ۷۵ تا ۹۰ درصد کالاهای این مغازه‌ها محصولات غذایی هستند. اندازه سوپرمارکت‌ها معمولاً از خواربارفروشیهای سنتی بزرگترند و محصولات بیشتری می‌فروشند ولی از هایپرمارکت‌ها و سوپرسنترها کوچکترند.",
+      "rating": 5
+    },
+    {
+      "id": "4",
+      "product": "خیار",
+      "image": "https://www.originofidea.com/wp-content/uploads/2019/07/Cucumber.jpg",
+      "categori": "میوه و سبزیجات",
+      "image_categori": "https://xtratheme.ir/elementor/supermarket/wp-content/uploads/sites/111/2023/05/s2.png",
+      "price": 4000,
+      "details": "سوپرمارکت شکلی از خواربارفروشی ولی بزرگتر از آن است که مشتری خودش محصولات را از قفسه برمی‌دارد یا به اصطلاح سلف سرویس است. در حدود ۷۵ تا ۹۰ درصد کالاهای این مغازه‌ها محصولات غذایی هستند. اندازه سوپرمارکت‌ها معمولاً از خواربارفروشیهای سنتی بزرگترند و محصولات بیشتری می‌فروشند ولی از هایپرمارکت‌ها و سوپرسنترها کوچکترند.",
+      "rating": 2
+    },
+    {
+      "id": "5",
+      "product": "گوشت گاو",
+      "image": "https://www.steakhome.ru/upload/iblock/6ec/6ecfbc07aa32ab0638ba02ecf53f683c.jpg",
+      "categori": "گوشت و استیک",
+      "image_categori": "https://xtratheme.ir/elementor/supermarket/wp-content/uploads/sites/111/2023/05/s6.png",
+      "price": 75000,
+      "details": "سوپرمارکت شکلی از خواربارفروشی ولی بزرگتر از آن است که مشتری خودش محصولات را از قفسه برمی‌دارد یا به اصطلاح سلف سرویس است. در حدود ۷۵ تا ۹۰ درصد کالاهای این مغازه‌ها محصولات غذایی هستند. اندازه سوپرمارکت‌ها معمولاً از خواربارفروشیهای سنتی بزرگترند و محصولات بیشتری می‌فروشند ولی از هایپرمارکت‌ها و سوپرسنترها کوچکترند.",
+      "rating": 3
+    },
+    {
+      "id": "6",
+      "product": "برنج",
+      "image": "https://img1.exportersindia.com/product_images/bc-full/2019/2/6141893/indian-basmati-rice-1551269028-4754440.jpeg",
+      "categori": "نان و غلات",
+      "image_categori": "https://xtratheme.ir/elementor/supermarket/wp-content/uploads/sites/111/2023/05/s3.png",
+      "price": 20000,
+      "details": "سوپرمارکت شکلی از خواربارفروشی ولی بزرگتر از آن است که مشتری خودش محصولات را از قفسه برمی‌دارد یا به اصطلاح سلف سرویس است. در حدود ۷۵ تا ۹۰ درصد کالاهای این مغازه‌ها محصولات غذایی هستند. اندازه سوپرمارکت‌ها معمولاً از خواربارفروشیهای سنتی بزرگترند و محصولات بیشتری می‌فروشند ولی از هایپرمارکت‌ها و سوپرسنترها کوچکترند.",
+      "rating": 5
+    },
+    {
+      "id": "7",
+      "product": "نان جو",
+      "image": "https://cdnimg.webstaurantstore.com/images/products/large/440900/1862259.jpg",
+      "categori": "نان و غلات",
+      "image_categori": "https://xtratheme.ir/elementor/supermarket/wp-content/uploads/sites/111/2023/05/s3.png",
+      "price": 3000,
+      "details": "سوپرمارکت شکلی از خواربارفروشی ولی بزرگتر از آن است که مشتری خودش محصولات را از قفسه برمی‌دارد یا به اصطلاح سلف سرویس است. در حدود ۷۵ تا ۹۰ درصد کالاهای این مغازه‌ها محصولات غذایی هستند. اندازه سوپرمارکت‌ها معمولاً از خواربارفروشیهای سنتی بزرگترند و محصولات بیشتری می‌فروشند ولی از هایپرمارکت‌ها و سوپرسنترها کوچکترند.",
+      "rating": 4
+    },
+    {
+      "id": "8",
+      "product": "پنیر",
+      "image": "https://images.fashionvipdergisi.com/interesnoe/2884724/chem_izvesten_i_unikalen_gollandskij_sir_maasdam_4.jpg.webp",
+      "categori": "لبنیات و پروتئین",
+      "image_categori": "https://xtratheme.ir/elementor/supermarket/wp-content/uploads/sites/111/2023/05/s4.png",
+      "price": 10000,
+      "details": "سوپرمارکت شکلی از خواربارفروشی ولی بزرگتر از آن است که مشتری خودش محصولات را از قفسه برمی‌دارد یا به اصطلاح سلف سرویس است. در حدود ۷۵ تا ۹۰ درصد کالاهای این مغازه‌ها محصولات غذایی هستند. اندازه سوپرمارکت‌ها معمولاً از خواربارفروشیهای سنتی بزرگترند و محصولات بیشتری می‌فروشند ولی از هایپرمارکت‌ها و سوپرسنترها کوچکترند.",
+      "rating": 2
+    },
+    {
+      "id": "9",
+      "product": "ماست",
+      "image": "https://tostpost.com/images/2018-Mar/21/1131b519674a334cd50fc26ec6adfddc/3.jpg",
+      "categori": "لبنیات و پروتئین",
+      "image_categori": "https://xtratheme.ir/elementor/supermarket/wp-content/uploads/sites/111/2023/05/s4.png",
+      "price": 8000,
+      "details": "سوپرمارکت شکلی از خواربارفروشی ولی بزرگتر از آن است که مشتری خودش محصولات را از قفسه برمی‌دارد یا به اصطلاح سلف سرویس است. در حدود ۷۵ تا ۹۰ درصد کالاهای این مغازه‌ها محصولات غذایی هستند. اندازه سوپرمارکت‌ها معمولاً از خواربارفروشیهای سنتی بزرگترند و محصولات بیشتری می‌فروشند ولی از هایپرمارکت‌ها و سوپرسنترها کوچکترند.",
+      "rating": 5
+    },
+    {
+      "id": "10",
+      "product": "اسپری چند منظوره",
+      "image": "https://xtratheme.ir/elementor/supermarket/wp-content/uploads/sites/111/2023/05/pr7-600x600.jpg",
+      "categori": "شوینده و نظافتی",
+      "image_categori": "https://xtratheme.ir/elementor/supermarket/wp-content/uploads/sites/111/2023/05/s5.png",
+      "price": 15000,
+      "details": "سوپرمارکت شکلی از خواربارفروشی ولی بزرگتر از آن است که مشتری خودش محصولات را از قفسه برمی‌دارد یا به اصطلاح سلف سرویس است. در حدود ۷۵ تا ۹۰ درصد کالاهای این مغازه‌ها محصولات غذایی هستند. اندازه سوپرمارکت‌ها معمولاً از خواربارفروشیهای سنتی بزرگترند و محصولات بیشتری می‌فروشند ولی از هایپرمارکت‌ها و سوپرسنترها کوچکترند.",
+      "rating": 1
+    },
+    {
+      "id": "11",
+      "product": "فیله مرغ",
+      "image": "https://xtratheme.ir/elementor/supermarket/wp-content/uploads/sites/111/2023/05/pr4-768x768.jpg",
+      "categori": "لبنیات و پروتئین",
+      "image_categori": "https://xtratheme.ir/elementor/supermarket/wp-content/uploads/sites/111/2023/05/s4.png",
+      "price": 27000,
+      "details": "سوپرمارکت شکلی از خواربارفروشی ولی بزرگتر از آن است که مشتری خودش محصولات را از قفسه برمی‌دارد یا به اصطلاح سلف سرویس است. در حدود ۷۵ تا ۹۰ درصد کالاهای این مغازه‌ها محصولات غذایی هستند. اندازه سوپرمارکت‌ها معمولاً از خواربارفروشیهای سنتی بزرگترند و محصولات بیشتری می‌فروشند ولی از هایپرمارکت‌ها و سوپرسنترها کوچکترند.",
+      "rating": 4
+    },
+    {
+      "id": "12",
+      "product": "سیب",
+      "image": "https://fastly.4sqi.net/img/general/600x600/23502661_H_TojnZhylUNTf3TW0bryPXlRkRgpXVokjO_DFlbCZc.jpg",
+      "categori": "میوه و سبزیجات",
+      "image_categori": "https://xtratheme.ir/elementor/supermarket/wp-content/uploads/sites/111/2023/05/s2.png",
+      "price": 12000,
+      "details": "سوپرمارکت شکلی از خواربارفروشی ولی بزرگتر از آن است که مشتری خودش محصولات را از قفسه برمی‌دارد یا به اصطلاح سلف سرویس است. در حدود ۷۵ تا ۹۰ درصد کالاهای این مغازه‌ها محصولات غذایی هستند. اندازه سوپرمارکت‌ها معمولاً از خواربارفروشیهای سنتی بزرگترند و محصولات بیشتری می‌فروشند ولی از هایپرمارکت‌ها و سوپرسنترها کوچکترند.",
+      "rating": 5
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "categori": "میوه و سبزیجات",
+      "image_categori": "https://xtratheme.ir/elementor/supermarket/wp-content/uploads/sites/111/2023/05/s2.png"
+    },
+    {
+      "id": "2",
+      "categori": "ماهی و آبزیان",
+      "image_categori": "https://xtratheme.ir/elementor/supermarket/wp-content/uploads/sites/111/2023/05/s1.png"
+    },
+    {
+      "id": "3",
+      "categori": "گوشت و استیک",
+      "image_categori": "https://xtratheme.ir/elementor/supermarket/wp-content/uploads/sites/111/2023/05/s6.png"
+    },
+    {
+      "id": "4",
+      "categori": "نان و غلات",
+      "image_categori": "https://xtratheme.ir/elementor/supermarket/wp-content/uploads/sites/111/2023/05/s3.png"
+    },
+    {
+      "id": "5",
+      "categori": "لبنیات و پروتئین",
+      "image_categori": "https://xtratheme.ir/elementor/supermarket/wp-content/uploads/sites/111/2023/05/s4.png"
+    },
+    {
+      "id": "6",
+      "categori": "شوینده و نظافتی",
+      "image_categori": "https://xtratheme.ir/elementor/supermarket/wp-content/uploads/sites/111/2023/05/s5.png"
+    }
+  ],
+  "comments": [
+    {
+      "id": "46e0",
+      "name": "مسعود احمدی",
+      "email": "mswd0258@gmail.com",
+      "comment": "خوب",
+      "score": 4,
+      "productId": "2"
+    },
+    {
+      "id": "7781",
+      "name": "تست",
+      "email": "test@gmail.com",
+      "comment": "jsj",
+      "score": 2,
+      "productId": "2"
+    },
+    {
+      "id": "12a3",
+      "name": "تست",
+      "email": "test@gmail.com",
+      "comment": "عالی",
+      "score": 4,
+      "productId": "4"
+    },
+    {
+      "id": "34c8",
+      "name": "مسعود احمدی",
+      "email": "mswd0258@gmail.com",
+      "comment": "خیلی خوبه",
+      "score": 4,
+      "productId": "5"
+    },
+    {
+      "id": "4210",
+      "name": "مسعود احمدی",
+      "email": "mswd0258@gmail.com",
+      "comment": "قیمت عالی",
+      "score": 2,
+      "productId": "4"
+    },
+    {
+      "id": "7b84",
+      "name": "مسعود احمدی",
+      "email": "mswd0258@gmail.com",
+      "comment": "خوبه",
+      "score": 4,
+      "productId": "1"
+    },
+    {
+      "id": "2ca8",
+      "name": "مسعود احمدی",
+      "email": "mswd0258@gmail.com",
+      "comment": "عالیه",
+      "score": 3,
+      "productId": "3"
+    }
+  ],
+  "usercontact": [
+    {
+      "id": "9754",
+      "firstName": "مسعود",
+      "lastName": "احمدی",
+      "phoneNumber": "09120000000",
+      "subject": "تست"
+    }
+  ],
+  "users": [
+    {
+      "id": "c848",
+      "username": "masoud",
+      "email": "mswd0258@gmail.com",
+      "password": "masoud2323",
+      "confirmPassword": "masoud2323"
+    }
+  ]
+}

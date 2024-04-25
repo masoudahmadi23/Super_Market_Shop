@@ -1,0 +1,44 @@
+.Breadcrumb {
+  background: #f9f9f9;
+  padding: 70px;
+  padding-bottom: 25px;
+}
+
+.content {
+  max-width: 1280px;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+}
+.lefter {
+  display: flex;
+  align-items: center;
+  margin-left: 33px;
+}
+.righter h1 {
+  color: #122d40;
+  padding-right: 35px;
+  padding-left: 35px;
+}
+
+#arrowicon {
+  margin: 0 10px;
+}
+
+#homeicon {
+  font-size: 22px;
+}
+
+.container {
+  max-width: 1280px;
+  margin: auto;
+  margin-bottom: 50px;
+}
+
+@media screen and (max-width: 761px) {
+  .lefter {
+    display: none;
+  }
+}

@@ -1,0 +1,271 @@
+.membership {
+  max-width: 1280px;
+  background: url(../../assets/images/bg-subscribe.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  color: #fff;
+  padding: 60px 60px 60px 60px;
+  border-radius: 40px;
+  position: relative;
+  z-index: 1;
+}
+
+.membership h2 {
+  font-size: 36px;
+  font-weight: 700;
+}
+
+.membership_right span {
+  color: #0ec376;
+}
+
+.inp_bttn {
+  width: 600px;
+  display: flex;
+  background: #ffffff;
+  border-radius: 100px;
+}
+
+.membership_left input {
+  width: 100%;
+  border: none;
+  outline: none;
+  background: transparent;
+  padding: 20px 30px;
+  border-radius: 100px;
+  box-shadow: 0 14px 23px 0 rgba(12, 12, 12, 0.06);
+}
+.membership_left button {
+  padding: 15px 25px;
+  display: flex;
+  border-radius: 100px;
+  background: #0ec376;
+  border: none;
+  align-items: center;
+  justify-content: center;
+  margin-right: -100px;
+  margin: 10px;
+}
+
+.icone_email {
+  margin-left: 10px;
+}
+
+.cz_middle_footer {
+  color: #ffffff;
+  background-color: #122d40;
+  margin-top: -106px;
+  margin-bottom: -120px;
+  border-radius: 40px 40px 0 0;
+}
+
+#cz_footer {
+  margin: 0 20px;
+}
+
+.row {
+  max-width: 1280px;
+  margin: auto;
+  padding: 150px 50px;
+  border-radius: 40px;
+  display: flex;
+}
+
+.sidebar_footer {
+  width: 31.66%;
+}
+
+.footer_widget {
+  padding: 50px 50px 70px 50px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgba(159, 182, 203, 0.2);
+  border-radius: 40px;
+  box-sizing: border-box;
+}
+
+.tar img {
+  width: 180px;
+  margin-bottom: 20px;
+}
+
+.tar :nth-child(2) {
+  margin-bottom: 30px;
+  line-height: 2rem;
+}
+
+.icon_footer {
+  display: flex;
+}
+.icon_footer a {
+  width: 50px;
+  height: 50px;
+  background: #ffffff3f;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 5px;
+  font-size: 18px;
+}
+
+#h4_footer {
+  font-size: 20px;
+  position: relative;
+  border-bottom: 1px dashed rgba(167, 167, 167, 0.2);
+  padding: 0 0 20px;
+  margin: 0 0 20px;
+}
+
+.footer_widget_2 {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-bottom: 5px;
+  font-size: 13px;
+}
+.footer_widget_2 :nth-child(1) {
+  font-size: 24px;
+  color: #01e281;
+  background-color: rgba(1, 226, 129, 0.2);
+  margin-top: 10px;
+  margin-bottom: 8px;
+  padding: 5px;
+  border-radius: 100px;
+  margin-left: 10px;
+}
+
+.tac {
+  text-align: center;
+}
+
+.footer_widget_3 h4 {
+  font-size: 22px;
+  line-height: 2rem;
+}
+
+.footer_widget_3 span {
+  color: #01e281;
+}
+
+.footer_widget_3 p {
+  color: #ffffff5f;
+  margin-top: 30px;
+  line-height: 2rem;
+  font-size: 17px;
+}
+
+.footer_bttn {
+  background: #01e281;
+  color: #122d40;
+  padding: 11px;
+  width: 151px;
+  margin: auto;
+  border-radius: 100px;
+  font-weight: bold;
+  font-size: 17px;
+  margin-top: 42px;
+  transition: all 0.3s ease-in-out;
+}
+
+.footer_bttn:hover {
+  background: #ffffff;
+}
+
+.footer_2_row {
+  max-width: 1280px;
+  margin: auto;
+  background-color: transparent;
+  border-style: solid;
+  border-width: 1px 1px 0px;
+  border-color: rgba(159, 182, 203, 0.2);
+  border-radius: 40px 40px 0 0;
+}
+
+.footer_2_widget {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  padding: 30px;
+  padding-bottom: 0;
+  color: #fff;
+}
+
+#footrimg {
+  width: 260px;
+}
+
+.scrollToTop {
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+  cursor: pointer;
+  background-color: #333;
+  color: #fff;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: background-color 0.3s, color 0.3s;
+  z-index: 5000;
+}
+
+.scrollToTop:hover {
+  background-color: #555;
+}
+
+.scrollToTopIcon {
+  font-size: 24px;
+}
+
+@media screen and (max-width: 854px) {
+  .membership {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .membership_right {
+    margin-bottom: 30px;
+  }
+  .row {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .sidebar_footer {
+    width: 80%;
+    margin: 30px;
+  }
+  .inp_bttn {
+    width: 450px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .inp_bttn {
+    width: 330px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .inp_bttn {
+    flex-wrap: wrap;
+    justify-content: center;
+    background: transparent;
+  }
+  .inp_bttn input {
+    background: #ffffff;
+  }
+  .membership_right h2 {
+    text-align: center;
+  }
+  .row {
+    padding: 150px 10px;
+  }
+}

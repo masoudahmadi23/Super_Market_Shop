@@ -1,0 +1,48 @@
+.container {
+  max-width: 1280px;
+  margin: 80px auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.right {
+  width: 48%;
+  position: relative;
+  padding: 40px;
+}
+
+.right img {
+  border-radius: 30px;
+  width: 100%;
+}
+
+.left {
+  width: 48%;
+}
+
+.left h3 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.left span {
+  color: #01e281;
+}
+
+.left p {
+  color: #666666;
+  line-height: 2rem;
+}
+
+@media screen and (max-width: 682px) {
+  .left {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+  }
+  .right {
+    width: 80%;
+    margin: auto;
+  }
+}
